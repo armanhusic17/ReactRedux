@@ -30,7 +30,7 @@ class App extends Component {
     return (
       <div>
         <SearchBar />
-        >VideoList />
+        <VideoList />
       </div>
     );
   }
